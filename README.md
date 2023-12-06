@@ -17,3 +17,4 @@
 
 - React
 - Typescript
+- styled-components
